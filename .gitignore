@@ -1,0 +1,5 @@
+test_logs.txt
+verbose_logs.txt
+*.exe
+*.out
+*.o
