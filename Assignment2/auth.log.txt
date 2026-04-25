@@ -1,0 +1,54 @@
+[CORRUPT-DATA] 0x0000 kernel panic initiated
+2026-02-18 00:01:01, ip=192.168.1.100, user=root, status=Failed password, port=22
+2026-02-18 00:01:02| ip=192.168.1.100| user=root| status=Failed password| port=22
+2026-02-18 00:01:03, ip=192.168.1.100, user=root, status=Failed password, port=22
+2026-02-18 00:01:04| ip=192.168.1.100| user=root| status=Failed password| port=22
+2026-02-18 00:01:05, ip=192.168.1.100, user=root, status=Failed password, port=22
+2026-02-18 00:01:06| ip=192.168.1.100| user=admin| status=Failed password| port=22
+2026-02-18 00:01:07, ip=192.168.1.100, user=admin, status=Failed password, port=22
+2026-02-18 00:01:08| ip=192.168.1.100| user=admin| status=Failed password| port=22
+2026-02-18 00:01:09, ip=192.168.1.100, user=admin, status=Failed password, port=22
+2026-02-18 00:01:10| ip=192.168.1.100| user=hacker| status=Failed password| port=22
+2026-02-18 00:01:11, ip=192.168.1.100, user=hacker, status=Failed password, port=22
+2026-02-18 00:01:12| ip=192.168.1.100| user=hacker| status=Success| port=22
+2026-02-18 08:30:00, ip=1.1.1.1, [CORRUPT-DATA] dropped packet
+2026-02-18 08:15:01, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:02, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:03, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:04, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:05, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:06, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:07, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:08, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:09, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:10, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:11, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:12, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:13, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:14, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:15:15, ip=10.0.0.5, user=dev, status=Failed password, port=8080
+2026-02-18 08:45:01| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:02| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:03| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:04| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:05| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:06| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:07| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:08| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:09| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:10| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:11| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+2026-02-18 08:45:12| ip=10.10.10.10| user=bot| status=Failed password| port = 3306
+System check [CORRUPT-DATA] failure
+2026-02-18 23:59:01, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:02, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:03, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:04, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:05, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:06, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:07, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:08, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:09, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:10, ip=172.16.0.20, user=alice, status=Failed password, port=443
+2026-02-18 23:59:11, ip=172.16.0.20, user=alice, status=Success, port=443
+2026-02-18 23:59:12, ip=172.16.0.20, user=alice, status=Failed connection, port=443
